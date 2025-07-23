@@ -1,4 +1,7 @@
-[![Banner](https://erode-sengunthar.ac.in/wp-content/uploads/2024/02/aiml-image-1.png)](https://www.linkedin.com/in/maryam-khan-787698288/)
+<div style="width: 800px; height: auto; border-radius: 20px; overflow: hidden;">
+  <img src="https://eng.auburn.edu/images/news/robot.gif" style="width: 100%; display: block;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Maryam khan</h1>
 <h3 align="center">A Machine Learning Engineer from Pakistan, focused on building intelligent systems to solve real-world problems</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/female-developer-background_665280-9660.jpg">
