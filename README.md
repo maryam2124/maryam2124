@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **langchain,LLM,LangGraphs**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/maryam-khan-787698288](www.linkedin.com/in/maryam-khan-787698288)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/maryam-khan-8i0k4](https://www.linkedin.com/in/maryam-khan-8i0k4)
 
 - 💬 Ask me about **t ML projects, deep learning, data preprocessing, and cleaning.**
 
